@@ -1,6 +1,6 @@
 # java-bank-application
 
-# Sınıf Diyagramı
+### Sınıf Diyagramı
 <img src="https://github.com/aslanburak/java-bank-application/blob/main/image/UML.jpg" width="850px" height="auto">
 
 ## 📌 TANIM
